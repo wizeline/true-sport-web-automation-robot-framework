@@ -1,0 +1,1 @@
+robot -L TRACE --variable ENV:dev -d result testcases/web
