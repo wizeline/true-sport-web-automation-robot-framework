@@ -2,6 +2,7 @@
 Documentation  Test suite description
 
 Resource  ../../keywords/web/page/home_page.robot
+Resource  ../../keywords/web/page/football_page.robot
 
 
 *** Variables ***
@@ -12,4 +13,5 @@ Check open home page - successfully
 
     When open home page
     And check go to homepage
-    And close home page
+    And choose football option on desktop
+    and close home page
