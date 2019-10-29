@@ -80,8 +80,6 @@ pybot -L TRACE --variable ENV:alpha -d result testcases/api
 ## Working with Backend Testing
 ### Prerequisites
 
-To setup the `credit-pay-be-robot` project, install the following tools on your computer:
-
 * [Python](https://www.python.org/).
 To install python [python webpage](https://www.python.org/downloads/).
 
@@ -95,12 +93,6 @@ Keywords must be classified on ``###==== Variables ====###``,  ``###==== Actions
 **[▲ Back to Top](#table-of-contents)**
 
 ## Contributing to backend testing
-
-Module Leads: 
-[Nhan Ngo](mailto:nhan.ngo@wizeline.com),
-[Roberto Oropeza](mailto:roberto.oropeza@wizeline.com),
-[Eduardo Avendaño](mailto:eduardo.avendano@team.wizeline.com),
-[Oscar Gaytan](mailto:oscar.gaytan@wizeline.com)
 
 ### Creating Pull Requests
 
